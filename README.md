@@ -61,5 +61,6 @@
 
 # итоговый дизайн сайта
 я предлагаю назвать ВузГид
+
 <img width="2880" height="4666" alt="image" src="https://github.com/user-attachments/assets/558ea884-9de0-45ac-90be-a57b6dbbd8a5" />
 
