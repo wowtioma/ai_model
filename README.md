@@ -59,6 +59,7 @@
 
 Где искать: «Карьера», «Центр трудоустройства», «Международная деятельность», «О вузе», сайты рейтингов и отзывов.
 
-пример сайта 
-<img width="2560" height="3608" alt="1  Журнал верхнее меню-пилюля, чат в центре@2x" src="https://github.com/user-attachments/assets/a7d11c58-7a2b-44d7-b72d-0bd732d56330" />
+# итоговый дизайн сайта
+я предлагаю назвать ВузГид
+<img width="2880" height="4666" alt="image" src="https://github.com/user-attachments/assets/558ea884-9de0-45ac-90be-a57b6dbbd8a5" />
 
